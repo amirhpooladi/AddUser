@@ -1,0 +1,38 @@
+.hi{
+    background: rgba(0, 0, 0, 0.75);
+}
+.invalid{
+    position:absolute;
+    z-index:10;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    background-color:white;
+    border-radius: 5px;
+    
+}
+.text1{
+    margin-top: 0;
+    color:white;
+    background-color: purple;
+    width: 500px; 
+    border-radius: 5px 5px 0px 0px;
+    padding: 12px;
+    
+}
+
+.text2{
+    color:black;
+    background-color: white;
+    width: fit-content;
+    margin-left: 20px;
+    
+}
+.btn{
+    margin-left: auto;
+    margin-bottom: 12px;
+    margin-right: 12px;
+    padding:auto;
+    
+}
